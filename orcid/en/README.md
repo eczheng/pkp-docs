@@ -5,17 +5,19 @@ description: A guide on how to set up and use the ORCID Plugin in Open Journal S
 
 # Introduction: ORCID Plugin Guide
 
-The ORCID Plugin Guide explains how to use and configure the ORCID Profile Plugin for Open Journal Systems (OJS) and Open Preprint Systems (OPS), how to obtain ORCID membership and API credentials, and how to connect ORCID iDs with works published with OJS and OPS. This document provides step-by-step instructions for Journal Managers and Administrators on how to use and configure the ORCID Profile Plugin in OJS/OPS and how authors can register with ORCID and connect their ORCID iD with works published with OJS/OPS.
+This ORCID Plugin Guide explains how to use and configure the ORCID Profile Plugin for Open Journal Systems (OJS) and Open Preprint Systems (OPS), how to obtain ORCID membership and API credentials, and how to connect ORCID iDs with works published with OJS and OPS. 
+
+This document provides step-by-step instructions for Journal Managers and Administrators on how to use and configure the ORCID Profile Plugin in OJS/OPS and how authors can register with ORCID and connect their ORCID iD with works published with OJS/OPS.
 
 {% include video.html id="ny0pue6MKek" provider="youtube" title="Video of setting up the ORCID Plugin in OJS"%}
 
-This video is for OJS administrators at ORCID member institutions, such as academic librarians, who are interested in enabling the ORCID plugin in OJS so that authors can connect their ORCID profile with their published research.
+This video is 1) an introduction to the ORCID plugin and its functionality, 2) a setup guide for OJS administrators at ORCID member institutions, such as academic librarians, who are interested in enabling the ORCID plugin in OJS so that authors can connect their ORCID profile with their published research, and 3) a demonstration of how the plugin works from an editor’s perspective.
 
 ## Software compatibility
 
-The ORCID Profile Plugin is available for OJS 3.1.2 and above and OPS 3.1.2 and above. However, the 3.1.x version will not receive backported features and bug fixes. Previous versions of the ORCID Profile Plugin have limited functionality. 
+The ORCID Profile Plugin is available for OJS 3.1.2 and above and OPS 3.1.2 and above. However, the 3.1.x version will not receive backported features and bug fixes. Previous versions of the ORCID Profile Plugin have limited functionality.
 
-PKP supports the current major version and the previous major version of [OJS](https://pkp.sfu.ca/software/ojs/getting-started/download/) and [OPS](https://pkp.sfu.ca/software/ops/getting-started/download/) and versions of the ORCID Plugin that are compatible with them. Keeping OJS/OPS and the Plugin up-to-date is recommended. 
+PKP supports the current major version and the previous major version of [OJS](https://pkp.sfu.ca/software/ojs/getting-started/download/) and [OPS](https://pkp.sfu.ca/software/ops/getting-started/download/) and versions of the ORCID Plugin that are compatible with them. Keeping OJS/OPS and the Plugin up-to-date is recommended.
 
 Both OJS and OPS share the same basic platform and therefore the instructions presented in this document apply for both journals using OJS and preprint servers using OPS.
 
